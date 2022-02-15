@@ -1,0 +1,9 @@
+{
+  "codeowners": ["@skylerisskyler"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/skylerisskyler/lumen_phase.git",
+  "domain": "lumen_phase",
+  "name": "Lumen Phase",
+  "requirements": []
+}
