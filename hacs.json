@@ -1,5 +1,5 @@
 {
   "name": "Lumen Phase",
   "render_readme": true,
-  "domains": ["switch"]
+  "domains": ["switch", "number"]
 }
